@@ -1,2 +1,5 @@
+# GitHub settings file
 repository:
   has_issues: true
+  has_projects: false
+  has_wiki: false
