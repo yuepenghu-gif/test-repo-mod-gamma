@@ -1,5 +1,3 @@
-# GitHub settings file
-repository:
-  has_issues: true
-  has_projects: false
-  has_wiki: false
+# Repository settings
+issues:
+  enabled: true
