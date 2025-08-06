@@ -1,5 +1,1 @@
-# GitHub repository settings
-# Documentation: https://docs.github.com/en</snippets/settings.yml>
-
-issues:
-  enabled: true
+issues: enabled
