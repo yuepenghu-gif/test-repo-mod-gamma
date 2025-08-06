@@ -1,1 +1,14 @@
-issues: enabled
+# Configuration for repository settings
+defaults:
+  org: "yuepenghu-gif"
+
+repository:
+  issues: true  # Enable issues
+
+limits:
+  retention:
+    artifacts: 90  # Retention limit is now 90 days
+
+additional:
+  templates: all
+  projects: false
