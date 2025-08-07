@@ -1,14 +1,5 @@
-# Configuration for repository settings
-defaults:
-  org: "yuepenghu-gif"
+# Repository settings managed by GitHub Settings (Probot).
+# For GitHub documentation, see https://docs.github.com/en/github/administering-a-repository.
+# For options, see https://probot.github.io/settings/
 
-repository:
-  issues: true  # Enable issues
-
-limits:
-  retention:
-    artifacts: 90  # Retention limit is now 90 days
-
-additional:
-  templates: all
-  projects: false
+issues: true
