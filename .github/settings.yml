@@ -1,5 +1,7 @@
-# Repository settings managed by GitHub Settings (Probot).
-# For GitHub documentation, see https://docs.github.com/en/github/administering-a-repository.
-# For options, see https://probot.github.io/settings/
-
-issues: true
+# Repository Settings
+repository:
+  actions: active
+  issues: true
+  projects: true
+  wiki: true
+  discussions: false
