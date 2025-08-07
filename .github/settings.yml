@@ -1,7 +1,1 @@
-# Repository Settings
-repository:
-  actions: active
-  issues: true
-  projects: true
-  wiki: true
-  discussions: false
+issues: true
