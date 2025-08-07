@@ -1,1 +1,6 @@
-issues: true
+# Configuration for repository settings.
+
+# Enable issues
+enable_issues: true
+
+# Add other configurations as needed
