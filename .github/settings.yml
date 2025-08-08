@@ -1,6 +1,4 @@
-# Configuration for repository settings.
+# Repository settings
+# Documentation: https://docs.github.com/en/repositories/managing-repository-settings/customizing-your-repository-settings
 
-# Enable issues
-enable_issues: true
-
-# Add other configurations as needed
+issues: true
