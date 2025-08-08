@@ -1,1 +1,10 @@
-issues: true
+# Repository Settings
+repository:
+  name: test-repo-mod-gamma
+  description: "Test GitHub repository for experiments"
+  private: false
+
+features:
+  issues: true
+  projects: true
+  wiki: true
