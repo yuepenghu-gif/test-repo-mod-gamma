@@ -1,1 +1,4 @@
-issues: true
+# Repository settings
+issues:
+  enabled: true
+
