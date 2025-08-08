@@ -1,5 +1,1 @@
-blank_issues_enabled: true
-contact_links:
-  - name: Support
-    url: 'https://github.com/contact'
-    about: 'Contact us for support.'
+issues: true
