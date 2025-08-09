@@ -1,10 +1,5 @@
-# Repository Settings
 repository:
-  name: test-repo-mod-gamma
-  description: "Test GitHub repository for experiments"
-  private: false
-
-features:
   issues: true
-  projects: true
-  wiki: true
+
+# Additional configurations that might already be part of the settings file
+default_branch: main
