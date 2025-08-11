@@ -1,5 +1,4 @@
-repository:
-  issues: true
+issues:
+  enabled: true
 
-# Additional configurations that might already be part of the settings file
-default_branch: main
+# Existing repository settings remain unchanged.
