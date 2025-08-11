@@ -1,2 +1,3 @@
-features:
+# Disable issues
+prepend:
   issues: true
