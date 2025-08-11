@@ -1,4 +1,4 @@
-issues:
-  enabled: true
-
-# Existing repository settings remain unchanged.
+github:
+  enabled_features:
+    - issues
+    - discussions
