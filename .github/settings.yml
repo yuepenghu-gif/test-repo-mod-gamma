@@ -1,1 +1,6 @@
-issues: true
+# Repository settings
+# Documentation: https://docs.github.com/en/repositories/customizing-your-repository
+
+repository:
+  # Enables the Issues feature for the repository
+  issues: true
