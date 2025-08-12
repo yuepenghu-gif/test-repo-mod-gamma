@@ -1,2 +1,7 @@
+# This file configures the repository settings
+# using GitHub's settings.yml format
+
+# Enable issues in this repository
 issues: true
-# Additional repository settings can be included below.
+
+# Other configurations can go here
