@@ -1,3 +1,2 @@
-# Repository Settings
-# Enable Issues in test-repo-mod-gamma
-issues: true
+issues:
+  enabled: true
