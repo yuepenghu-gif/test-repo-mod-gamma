@@ -1,3 +1,2 @@
-# Repository settings
-issues:
-  enabled: true
+issues: true
+# Other repository settings can be configured.
