@@ -1,6 +1,2 @@
-# Repository Settings
-# For more details, see https://docs.github.com/en/rest/repos/repos#update-a-repository
-
-repository:
-  issues: true
-  # Other settings for the repository
+issues: true
+# Additional repository settings can be included below.
