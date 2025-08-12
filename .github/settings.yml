@@ -1,6 +1,7 @@
-# Repository settings
-# Documentation: https://docs.github.com/en/rest/repos/repos#update-a-repository
+# Config for the repository settings
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/configuring-repository-features-with-code
+
 repository:
+  # Enable issues in the repository
   has_issues: true
-  has_wiki: true
-  default_branch: main
+
