@@ -1,2 +1,5 @@
+# Workflow repository settings
+default_branch:
+  name: main
 issues:
   enabled: true
