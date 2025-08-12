@@ -1,4 +1,3 @@
-repository:
-  issues: true
-  projects: true
-  wiki: true
+# Repository Settings
+# Enable Issues in test-repo-mod-gamma
+issues: true
