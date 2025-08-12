@@ -1,5 +1,3 @@
-# GitHub Settings configuration file
-# For documentation, see: https://github.com/github/platform-samples/blob/main/settings/
-
-_repository:
-  has_issues: true  # Enable issues for the repository
+# Repository Configuration
+issues:
+  enabled: true
