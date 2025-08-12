@@ -1,5 +1,18 @@
-# Workflow repository settings
-default_branch:
-  name: main
+# Repository Settings Configuration File
+
+# Issues Section
 issues:
   enabled: true
+
+# Pull Requests Section
+pulls:
+  enabled: true
+
+# Repository Features
+features:
+  discussions: false
+  projects: true
+
+# Additional Settings
+settings:
+  restrict-main-branch: true
