@@ -1,7 +1,1 @@
-# Repository Settings
-
-# "issues" enables or disables the issues feature on this repository.
-# Repository admins can manage the filing of issues, but all enabled features
-# can be used by collaborators with write access to the repository.
-# Allowed values: true, false
 issues: true
