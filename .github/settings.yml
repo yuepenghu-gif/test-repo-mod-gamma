@@ -1,4 +1,4 @@
-# Repository Settings
-# Managed by the Allstar security policy monitoring system.
-repository:
-  issues: true
+issues: true
+
+# Repository settings file
+default_branch: main
