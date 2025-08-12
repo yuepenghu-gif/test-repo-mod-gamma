@@ -1,19 +1,5 @@
-# Default repository settings, will be merged with any defined ones
-_repository:
-  has_projects: false
-  has_wiki: false
-  has_pages: false
-  delete_branch_on_merge: true
-+  has_issues: true
-
-# Labels
-labels:
-  - name: bug
-    color: CC0000
-    description: An issue with the system.
-  - name: documentation
-    color: 9400D3
-    description: Improvements or additions to documentation.
-  - name: enhancement
-    color: 00FF7F
-    description: New feature or request.
+repository:
+  # Enable repository features
+  issues: true
+  projects: false
+  wiki: false
