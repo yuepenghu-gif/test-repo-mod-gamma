@@ -1,4 +1,2 @@
-# This is the configuration for repository settings
-
-issues:
-  enabled: true
+repository:
+  issues: true
