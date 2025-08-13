@@ -1,2 +1,3 @@
-# Repository Settings
-issues: true
+# Repository settings
+defaults:
+  issues: true
