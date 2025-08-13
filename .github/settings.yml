@@ -1,3 +1,5 @@
-# Repository settings
-defaults:
+# Repository Settings
+# Docs: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-repository-settings/configuration-options-for-repository-settings#about-configurable-repository-settings
+
+settings:
   issues: true
