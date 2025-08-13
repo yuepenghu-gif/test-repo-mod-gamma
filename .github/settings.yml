@@ -1,4 +1,3 @@
-# Permissions settings for the repository
-repository:
-  # Enables issues feature
-  allow_issues: true
+# Repository Settings
+issues:
+  enabled: true
