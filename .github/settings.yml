@@ -1,3 +1,4 @@
-# Required for enabling and configuring Github features
-repository:
-  issues: true
+# This is the configuration for repository settings
+
+issues:
+  enabled: true
