@@ -1,1 +1,4 @@
-issues: true
+# This is a configuration file for the repository.
+# Repository settings
+repository:
+  issues: true # Enable GitHub Issues
