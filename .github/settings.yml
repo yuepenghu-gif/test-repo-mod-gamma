@@ -1,1 +1,2 @@
-_enable_issues: true
+# GitHub repository settings
+issues: true
