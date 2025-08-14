@@ -1,2 +1,2 @@
-features:
-  issues: true
+# Configuration for repository settings
+issues: true
