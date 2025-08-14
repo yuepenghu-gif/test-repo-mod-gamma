@@ -1,5 +1,3 @@
-_extends: default
+# Repository Configuration File
 repository:
-  # Enable "issues" feature
   issues: true
-  # Other repository settings...
