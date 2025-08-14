@@ -1,2 +1,12 @@
-# Configuration for repository settings
-issues: true
+# Repository Settings
+
+repository:
+  has_issues: true
+  has_projects: true
+  has_wiki: false
+  default_branch: main
+
+permissions:
+  contents: write
+  issues: write
+  discussions: write
