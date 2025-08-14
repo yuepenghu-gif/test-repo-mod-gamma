@@ -1,3 +1,2 @@
 repository:
-  # Set whether issues are enabled.
-  has_issues: true
+  issues: true
