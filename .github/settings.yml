@@ -1,1 +1,4 @@
-_enable_issues: true
+# This is the settings.yaml configuration file for the repository
+default_branch: main
+issues: true
+projects: true
