@@ -1,4 +1,3 @@
 # Repository Settings
-
-# Enabling issues in the repository
-enable_issues: true
+repository:
+  can_create_issues: true
