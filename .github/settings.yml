@@ -1,3 +1,4 @@
-# Repository Configuration File
-repository:
-  issues: true
+# Repository Settings
+
+# Enabling issues feature
+issues: true
