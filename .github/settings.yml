@@ -1,3 +1,2 @@
-repository:
-  name: test-repo-mod-gamma
-  issues: enabled
+# Repository settings configuration
+enable_issues: true
