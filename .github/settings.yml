@@ -1,4 +1,1 @@
-# Repository Settings
-repository:
-  name: test-repo-mod-gamma
-  issues: true
+issues: true
