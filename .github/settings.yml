@@ -1,2 +1,3 @@
-issues:
-  enabled: true
+# Repository-wide GitHub settings
+default_branch: main
+issues: true
