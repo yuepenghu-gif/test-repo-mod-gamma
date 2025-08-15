@@ -1,4 +1,6 @@
-# Repository Settings
-# More about repository configurations: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/configuring-pull-request-merges/configuring-push-protection-settings-for-your-repository
-settings:
+# This is the configuration for the repository settings
+# Documentation: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository
+
+repository:
   issues: true
+
