@@ -1,6 +1,5 @@
-# This is the configuration for the repository settings
-# Documentation: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository
+# Repository settings
 
-repository:
-  issues: true
-
+# Other settings remain unchanged
+issues:
+  enabled: true  # Enables the issue tracker
