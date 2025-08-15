@@ -1,3 +1,4 @@
 # Repository Settings
 repository:
-  can_create_issues: true
+  name: test-repo-mod-gamma
+  issues: true
