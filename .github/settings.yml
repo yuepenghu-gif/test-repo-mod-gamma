@@ -1,2 +1,10 @@
-repository:
-  issues: true
+_config:
+  version: 1
+
+issues:
+  enabled: true
+
+projects:
+  enabled: true # Default settings
+
+# You can enable/disable other settings below.
