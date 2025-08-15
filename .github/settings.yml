@@ -1,5 +1,2 @@
-# Repository settings
-
-# Other settings remain unchanged
-issues:
-  enabled: true  # Enables the issue tracker
+repository:
+  issues: true
