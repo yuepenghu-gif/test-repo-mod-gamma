@@ -1,2 +1,7 @@
-# Repository settings configuration
-enable_issues: true
+# Repository Settings
+# For details, see: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features
+
+repository:
+  issues: true
+  projects: true # Keep enabled as default
+  wiki: true # Keep enabled as default
