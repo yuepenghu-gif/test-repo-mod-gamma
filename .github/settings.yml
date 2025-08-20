@@ -1,3 +1,8 @@
-# This configuration file is automatically synchronized across repositories.
+# Repository settings for test-repo-mod-gamma
 repository:
   issues: true
+  wiki: true
+  projects: true
+  squash_merge: true
+  merge_commit: true
+  rebase_merge: false
