@@ -1,1 +1,2 @@
-issues: enabled
+issues:
+  enabled: true
