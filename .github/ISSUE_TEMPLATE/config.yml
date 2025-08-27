@@ -1,4 +1,5 @@
-name: New Issue Template
-about: Describe the purpose of this issue or problem clearly.
-labels: []
-assignees: []
+blank_issues_enabled: true
+contact_links:
+  - name: Custom Support
+    url: https://example.com/support
+    about: Use this for any kind of assistance.
