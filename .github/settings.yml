@@ -1,1 +1,9 @@
-issues: true
+_config:
+  default_branch: main
+
+repository:
+  issues: true
+  projects: true
+  wiki: true
+  default_branch: main
+  visibility: public
