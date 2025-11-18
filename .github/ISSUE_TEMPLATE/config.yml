@@ -1,5 +1,1 @@
-blank_issues_enabled: true
-contact_links:
-  - name: Custom Support
-    url: https://example.com/support
-    about: Use this for any kind of assistance.
+enabled: true
