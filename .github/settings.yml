@@ -1,2 +1,2 @@
-repository:
-  issues: true
+# Repository Settings
+enable_issues: true
